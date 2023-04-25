@@ -1,0 +1,19 @@
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.login, .chores {
+	margin-bottom: 20px;
+}
+
+.login input, .login button {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.hidden {
+	display: none;
+}
+
